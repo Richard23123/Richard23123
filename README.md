@@ -1,11 +1,11 @@
-**TOP IMAGE**
+<!-- TOP IMAGE -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
-**ABOUT ME**
+<!-- ABOUT ME -->
 <div align="center">
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/codediaz/codediaz/output/github-contribution-grid-snake.svg" />
   <br/>
 </div>
 
-**BOTTOM IMAGE**
+<!-- BOTTOM IMAGE -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
